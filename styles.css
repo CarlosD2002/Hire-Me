@@ -1,0 +1,20 @@
+img {
+    height: 250px;
+    width: 250px;
+}
+ p {
+     font-family: 'Mali', cursive;
+}
+h1 {
+    font-family: 'Mali', cursive;
+    color:blue;
+    background-color:white;
+}
+h2 {
+    font-family: 'Mali', cursive;
+    color:blue;
+    background-color:white;
+}
+body {
+    background-color:lightblue;
+}
